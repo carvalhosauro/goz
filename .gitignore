@@ -1,0 +1,22 @@
+bin/
+dist/
+*.test
+*.out
+coverage.*
+
+# editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# os
+.DS_Store
+Thumbs.db
+
+# project
+.design/
+.omc/
+*.db
+*.db-journal
+*.log
