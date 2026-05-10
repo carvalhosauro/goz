@@ -1,0 +1,40 @@
+  ✦ goz  ~/repo/me/goz  ·  sat · 9 may · 02:01                                                            ● 1 overdue   ● 1 done   ● 9 open 
+╭────────────────────────────────────────────────────────────────────────────────╮ ╭───────────────────────────────────────────────────────╮
+│ ├─ tasks · today ─┤                                           1/10 · 1 overdue │ │ ├─ agent · sidekick ─┤                  ollama · idle │
+│┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄│ │┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄│
+│      pr task                                         tag            due    est │ │◆ agent                                                │
+│▍ [ ] P1 Review Marcos's PR #482 — auth flow         #eng          today    20m │ │hey marina · 3 hints for today:                        │
+│  [ ] ·· Refactor billing module to Stripe …         #eng                     — │ │                                                       │
+│  [ ] P2 Write ADR on storage v3                     #doc            fri     1h │ │◆ agent                                                │
+│  [ ] P1 Call accountant about taxes            #personal    ⚠ yesterday    15m │ │1. "Call accountant" is overdue · /replan to move      │
+│  [ ] P2 Buy Júlia's birthday gift (saturda…    #personal            thu    30m │ │                                                       │
+│  [ ] P1 Investor deck for thursday meeting         #work            wed     2h │ │◆ agent                                                │
+│  [ ] P2 Onboard João (new eng)                   #people          today    45m │ │2. "Refactor billing" is large · /breakdown            │
+│  [ ] P3 Schedule dentist                       #personal                    5m │ │                                                       │
+│  [x] P3 Reply HR email about benefits              #work                   10m │ │◆ agent                                                │
+│  [ ] ·· Study for AWS SA certification            #learn                     — │ │3. 3 tasks without estimate · /estimate                │
+│                                                                                │ │                                                       │
+│                                                                                │ │◆ agent                                                │
+│                                                                                │ │(ai not wired — phase 2 brings ollama.)                │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │                                                       │
+│                                                                                │ │┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄│
+│                                                                                │ │› ask the agent · /breakdown /estimate /prioritize /r… │
+│                                                                                │ │ /breakdown   /estimate   /prioritize   /replan        │
+╰────────────────────────────────────────────────────────────────────────────────╯ ╰───────────────────────────────────────────────────────╯
+  NORMAL   j/k nav  x toggle  n new  d del  J/K move  Tab chat  ? help  q quit                                                  goz · charm 
